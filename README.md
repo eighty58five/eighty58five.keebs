@@ -1,2 +1,2 @@
 # eighty58five.keebs
-Exploring creating a website documenting my keyboard abventures
+Exploring creating a website documenting my keyboards
