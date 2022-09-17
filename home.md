@@ -1,6 +1,8 @@
 # My Mechanical Keyboards
 
 ## Leopold 980pd
+awaitng images
+
 
 ## Woody 60%
 ![eighty58five custom wooden keyboard](https://i.imgur.com/Ylmt6I5.jpg)
@@ -18,8 +20,12 @@
 ![eighty58five Dimple](https://preview.redd.it/z3l51bdtcnw81.jpg?width=960&crop=smart&auto=webp&s=356bcec88d26372a3fc2c18e15a73e50adea0311)
 
 ## Tofu
+awaitng images
+
+
 
 ## D65
+
 
 ## QK65 (Coming Soon)
 
