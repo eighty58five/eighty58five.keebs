@@ -1,5 +1,3 @@
-# My Mechanical Keyboards
-
 ## Custom Wooden 60%
 
 ![eighty58five custom wooden keyboard](https://i.imgur.com/Ylmt6I5.jpg)
