@@ -5,7 +5,7 @@ awaitng images
 
 
 ## Woody 60%
-![eighty58five custom wooden keyboard](https://i.imgur.com/Ylmt6I5.jpg)
+[![eighty58five custom wooden keyboard](https://i.imgur.com/Ylmt6I5.jpg)](https://eighty58five.github.io/eighty58five.keebs/keyboards/wooden60)
 
 ## Apple M0110A Salvage
 ![eighty58five Apple M0110A Salvage](https://preview.redd.it/7e526z9miuf61.jpg?width=960&crop=smart&auto=webp&s=fc57fa04e01c48d00aa25927c86111a9a9c7ab76)
