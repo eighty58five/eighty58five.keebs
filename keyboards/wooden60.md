@@ -19,7 +19,7 @@
 
 Have decided that I no longer like the XDA profile keycaps. Whilst I search for replacement kaycaps, I have added an old set of cherry caps that I had.
 
-![updatedimage1]()
-![updatedimage2]()
-![updatedimage3]()
-![updatedimage4]()
+![updatedimage1](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103238.jpg)
+![updatedimage2](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103423.jpg)
+![updatedimage3](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103519.jpg)
+![updatedimage4](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103930.jpg)
