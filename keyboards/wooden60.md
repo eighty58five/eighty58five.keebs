@@ -36,5 +36,5 @@ Updated with epbt 9009 Keycaps
 ![epbt9009-4](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220104_151752.jpg)
 ![epbt9009-5](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125011.jpg)
 ![epbt9009-6](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125036.jpg)
-![epbt9009-7](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125240.jpg)
-![epbt9009-8](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125351.jpg)
+![epbt9009-7](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125351.jpg)
+![epbt9009-8](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125240.jpg)
