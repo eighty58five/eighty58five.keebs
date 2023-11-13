@@ -23,3 +23,17 @@ Have decided that I no longer like the XDA profile keycaps. Whilst I search for 
 ![updatedimage2](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103423.jpg)
 ![updatedimage3](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103519.jpg)
 ![updatedimage4](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_103930.jpg)
+
+### Update - 12/02/2022
+
+Liked the original look of the grey and creams on the wooden keyboard with the pastel greens and pinks. 
+Updated with epbt 9009 Keycaps
+
+![epbt9009-1](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220104_151223.jpg)
+![epbt9009-2](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220104_151355.jpg)
+![epbt9009-3](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220104_151458.jpg)
+![epbt9009-4](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220104_151752.jpg)
+![epbt9009-5](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125011.jpg)
+![epbt9009-6](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125036.jpg)
+![epbt9009-7](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125240.jpg)
+![epbt9009-8](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20220212_125351.jpg)
