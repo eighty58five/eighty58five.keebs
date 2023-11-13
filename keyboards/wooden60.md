@@ -1,6 +1,6 @@
 ## Custom Wooden 60%
 
-![eighty58five custom wooden keyboard](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg)
+![eighty58five custom wooden keyboard](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg?raw=true)
 
 ### Parts
 
