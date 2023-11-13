@@ -1,6 +1,6 @@
 ## Custom Wooden 60%
 
-![eighty58five custom wooden keyboard]([https://i.imgur.com/Ylmt6I5.jpg](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg))
+![eighty58five custom wooden keyboard](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg)
 
 ### Parts
 
@@ -15,6 +15,7 @@
 ![WoodenXDA3](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080139.jpg?raw=true)
 ![WoodenXDA4](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080217.jpg?raw=true)
 ![WoodenXDA5](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080259.jpg?raw=true)
+![WoodenXDA6](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20211113_104138.jpg?raw=true)
 ### Update - 16/11/2021
 
 Have decided that I no longer like the XDA profile keycaps. Whilst I search for replacement kaycaps, I have added an old set of cherry caps that I had.
