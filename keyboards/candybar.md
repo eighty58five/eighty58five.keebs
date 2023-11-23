@@ -1,4 +1,4 @@
-## Custom Wooden 60%
+## TKC Candybar
 
 ![eighty58five Candybar keyboard by TKC](https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/candybar/20210609_200936.jpg?raw=true)
 
