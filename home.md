@@ -9,6 +9,7 @@ awaitng images
 
 ## Apple M0110A Salvage
 ![eighty58five Apple M0110A Salvage](https://preview.redd.it/7e526z9miuf61.jpg?width=960&crop=smart&auto=webp&s=fc57fa04e01c48d00aa25927c86111a9a9c7ab76)
+<img src="https://preview.redd.it/7e526z9miuf61.jpg?width=960&crop=smart&auto=webp&s=fc57fa04e01c48d00aa25927c86111a9a9c7ab76" height="100">
 
 ## Candybar
 [![eighty58five Candybar](https://preview.redd.it/clv0cuqwpa471.jpg?width=960&crop=smart&auto=webp&s=6f4696176a386a61798ea03edd1954e2ddcefee5)](https://eighty58five.github.io/eighty58five.keebs/keyboards/candybar)
