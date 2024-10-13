@@ -5,7 +5,7 @@ awaitng images
 
 
 ## Woody 60%
-<a href="https://eighty58five.github.io/eighty58five.keebs/keyboards/wooden60>
+<a href="https://eighty58five.github.io/eighty58five.keebs/keyboards/wooden60">
 <img alt="click here to see more..." src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg?raw=true" height="300">
 </a>
 
