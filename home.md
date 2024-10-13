@@ -5,7 +5,9 @@ awaitng images
 
 
 ## Woody 60%
-<img src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg?raw=true" height="300">(https://eighty58five.github.io/eighty58five.keebs/keyboards/wooden60)
+<a href="https://eighty58five.github.io/eighty58five.keebs/keyboards/wooden60>
+<img alt="click here to see more..." src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/wooden/20200619_080320.jpg?raw=true" height="300">
+</a>
 
 ## Apple M0110A Salvage
 ![eighty58five Apple M0110A Salvage](https://preview.redd.it/7e526z9miuf61.jpg?width=960&crop=smart&auto=webp&s=fc57fa04e01c48d00aa25927c86111a9a9c7ab76)
