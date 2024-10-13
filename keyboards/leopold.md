@@ -1,6 +1,6 @@
 ## Leopold FC980PD
 
-<img src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/leopold/20221222_210142.jpg?raw=true" style="transform:rotate(270deg);"> 
+<img src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/leopold/20221222_210142.jpg?raw=true"> 
 
 This was my first adventure into Mechanical Keyboards. At the time leopold was known for it's great build quality and I was drawn in by the muted design with no logo's or fancy features.
 I opted for brown switches as they only provide these in cherry options. I had experienc ef black in my RK61 and they felt a bit fatiguing. 
