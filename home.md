@@ -3,7 +3,7 @@ In order of build;
 
 ## Leopold 980pd
 <a href="https://eighty58five.github.io/eighty58five.keebs/keyboards/leopold">
-  <img alt="Image of leopold fc980m pd keyboard with link to further information" src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/leopold/20221222_210142.jpg?raw=true" width="700" style="transform:rotate(270deg);">
+  <img alt="Image of leopold fc980m pd keyboard with link to further information" src="https://github.com/eighty58five/eighty58five.keebs/blob/gh-pages/docs/assets/images/keyboards/leopold/20221222_210142.jpg?raw=true" style="transform:rotate(270deg);" width="700">
 </a>
 
 ## Woody 60%
